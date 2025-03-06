@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhi.
 - 👀 I’m interested in exploring computer science.
-- 🌱 I’m currently learning web development.
-- 💞️ I am looking for an internship.
+- 🌱 I’m currently working as a full stack developer.
 
 
 <!---
