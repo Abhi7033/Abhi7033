@@ -1,7 +1,7 @@
 
 # Abhishek
 - 👋 Hi, I'm @Abhi7033
-- 🌱 I'm currently learning Springboot
+- 🌱 I'm currently working as a full-stack developer
 - 💞️ I'm looking to collaborate on any full-stack projects
 - 📫 How to reach me email: abhishekanand3860@gmail.com
    <!-- - 👀 I'm interested in remote work/freelance projects -->
